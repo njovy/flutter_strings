@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Runner
+
+  Created by Taehyun Park on 09/09/2019.
+  Copyright © 2019 The Chromium Authors. All rights reserved.
+*/
+"test" = "Hello World";
+"test_with_formats" = "%@ Hello World %@";
+
